@@ -1,1 +1,4 @@
-# Strong-cipher-generation
+- 刚玩Github，代码小白
+- 路过的大佬快来帮我完善或修改代码
+- 欢迎交流讨论
+- 
